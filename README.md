@@ -1,64 +1,27 @@
-👋 Olá, eu sou Felipe Salles de Oliveira
+# Olá, eu sou o Felipe Salles 👋
+### Unity & C# Developer | Mobile & WebGL Game Dev | Backend Serverless
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Aspirante a **Desenvolvedor de Software / TI**  
-📍 Brasil  
+Desenvolvedor de jogos focado em engenharia de gameplay em C#, otimização mobile (Zero GC, Object Pooling) e arquitetura de backend em nuvem. Bacharel em Análise e Desenvolvimento de Sistemas (Cotemig).
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, em transição de carreira para a área de Tecnologia da Informação, com forte interesse em desenvolvimento de software, programação, bancos de dados e aplicações mobile.
-Atualmente busco oportunidade de estágio ou vaga júnior em TI, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções reais.
+---
 
-🧠 Áreas de Interesse
-- Desenvolvimento de Software
-- Programação Orientada a Objetos
-- Desenvolvimento Mobile (Android)
-- Back-end, Front-end e Banco de Dados
-- Lógica de Programação
-- Boas práticas de código e versionamento
+### 🚀 Destaque Principal: Overflux 3D
+* **Jogo 3D solo** desenvolvido em **Unity 6** e publicado na Google Play Store.
+* 🌐 **Demo WebGL no Navegador:** [Jogar no Itch.io](https://gameoliver.itch.io/overflux-web-demo)
+* 📦 **Amostra de Código no GitHub:** [Overflux-Code-Showcase](https://github.com/FelipeSallesDeOlivia/Overflux-Code-Showcase)
+* 🏢 **Estúdio & Projetos:** [Game Oliver](https://sites.google.com/view/game-oliver)
 
-🛠️ Tecnologias e Ferramentas
+---
 
-Linguagens
-- C#
-- Java
-- Kotlin
-- JavaScript
-- SQL
-- PL/SQL
-- HTML & CSS
+### 🛠️ Tecnologias & Competências
+* **Engines & Ferramentas:** Unity 6 (ARM64, IL2CPP, WebGL), Visual Studio, Git, Blender.
+* **Linguagens:** C# (Avançado em Unity), Java, SQL.
+* **Engenharia & Performance:** POO, Object Pooling nativo, Zero GC, Quaternions, Rigidbody Physics.
+* **Backend & Cloud:** Microsoft Azure PlayFab, Google Cloud Console (OAuth 2.0).
 
-Frameworks / Tecnologias
-- Android (Kotlin)
-- Unity (C#)
-- Spring Boot (estudos)
-- Jakarta EE / Hibernate (estudos)
-- Retrofit (APIs REST)
-- Git e GitHub
+---
 
-IDEs e Ferramentas
-- Visual Studio
-- Visual Studio Code
-- IntelliJ IDEA
-- Eclipse
-- TRAE
-- Android Studio
-- Oracle SQL Developer
-- MySQL Workbench
-- GitHub / GitHub Copilot
-
-📚 Formação Acadêmica
-🎓 Análise e Desenvolvimento de Sistemas**  
-Faculdade Cotemig — Em andamento
-
-🚀 Objetivo Profissional
-Atuar na área de Tecnologia da Informação, preferencialmente como estagiário ou desenvolvedor júnior, com foco em desenvolvimento de sistemas, mobile, back-end ou front-end, buscando aprendizado contínuo, crescimento profissional e entrega de valor através da tecnologia.
-
-📂 Projetos
-Neste GitHub você encontrará projetos acadêmicos e de estudo, desenvolvidos com foco em aprendizado prático, organização de código e aplicação de conceitos vistos em aula.
-
-📫 Contato
-- 📧 Email: felipesallesdeoliveira@gmail.com
-- 💼 GitHub: [github.com/FelipeSallesDeOliveira](https://github.com/FelipeSallesDeOliveira)
-- Curriculo em C#: [CURRICULO FELIPE C#.txt](https://github.com/user-attachments/files/24227923/CURRICULO.FELIPE.C.txt)
-
-
-⭐ Sempre aberto a aprender, evoluir e colaborar em projetos!
+### 📬 Contato & Redes
+* **LinkedIn:** [Felipe Oliveira](https://www.linkedin.com/in/felipe-oliveira-3836374b/)
+* **E-mail:** `felipesallesdeoliveira@gmail.com`
+* **YouTube:** [Game Oliver Studio](https://www.youtube.com/channel/UCG8-Y_OrFpbNZekaRzLFoBw)
